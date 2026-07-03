@@ -1,0 +1,643 @@
+{
+  "posts": [
+    {
+      "id": "p01",
+      "thumbnail": "https://picsum.photos/seed/p01/480/480",
+      "caption": "5 dumbbell moves that torched my shoulders in 15 minutes 🔥 no gym needed",
+      "creator": "@liftwithlena",
+      "category": "fitness",
+      "tags": ["dumbbells", "shoulders", "home workout", "strength"],
+      "date": "2026-06-28",
+      "type": "reel",
+      "summary": [
+        "Superset lateral raises with front raises to hit all three deltoid heads",
+        "Keep reps slow (3-sec lower) to maximize time under tension",
+        "Only need a single pair of adjustable dumbbells, 15 minutes total",
+        "Finish with a 45-second plank hold to fry the core too",
+        "Do this 2x/week alongside push day for visible shoulder cap growth"
+      ],
+      "exercises": [
+        { "name": "Dumbbell Lateral Raise", "sets": 3, "reps": "12" },
+        { "name": "Dumbbell Front Raise", "sets": 3, "reps": "12" },
+        { "name": "Arnold Press", "sets": 3, "reps": "10" }
+      ]
+    },
+    {
+      "id": "p02",
+      "thumbnail": "https://picsum.photos/seed/p02/480/480",
+      "caption": "The only push day routine you need as a beginner (save this!)",
+      "creator": "@coachmarcus",
+      "category": "fitness",
+      "tags": ["push day", "beginner", "chest", "triceps"],
+      "date": "2026-06-20",
+      "type": "post",
+      "exercises": [
+        { "name": "Barbell Bench Press", "sets": 4, "reps": "8" },
+        { "name": "Incline Dumbbell Press", "sets": 3, "reps": "10" },
+        { "name": "Tricep Rope Pushdown", "sets": 3, "reps": "12" }
+      ]
+    },
+    {
+      "id": "p03",
+      "thumbnail": "https://picsum.photos/seed/p03/480/480",
+      "caption": "Pull day for a stronger back — chin-ups, rows, and a face pull finisher",
+      "creator": "@coachmarcus",
+      "category": "fitness",
+      "tags": ["pull day", "back", "chin-ups"],
+      "date": "2026-06-14",
+      "type": "post",
+      "exercises": [
+        { "name": "Chin-Ups", "sets": 4, "reps": "8" },
+        { "name": "Barbell Row", "sets": 3, "reps": "10" },
+        { "name": "Face Pull", "sets": 3, "reps": "15" }
+      ]
+    },
+    {
+      "id": "p04",
+      "thumbnail": "https://picsum.photos/seed/p04/480/480",
+      "caption": "Leg day that will make you regret skipping squats 🦵",
+      "creator": "@liftwithlena",
+      "category": "fitness",
+      "tags": ["leg day", "squats", "glutes"],
+      "date": "2026-06-10",
+      "type": "reel",
+      "summary": [
+        "Back squat is the primary lift — focus on depth over load",
+        "Bulgarian split squats fix left/right strength imbalances",
+        "Hip thrusts at the end maximize glute activation when quads are pre-fatigued",
+        "Rest 2-3 minutes between heavy compound sets"
+      ],
+      "exercises": [
+        { "name": "Back Squat", "sets": 4, "reps": "6" },
+        { "name": "Bulgarian Split Squat", "sets": 3, "reps": "10 each" },
+        { "name": "Hip Thrust", "sets": 3, "reps": "12" }
+      ]
+    },
+    {
+      "id": "p05",
+      "thumbnail": "https://picsum.photos/seed/p05/480/480",
+      "caption": "Active recovery day: mobility flow + 20 min incline walk",
+      "creator": "@yogawithdev",
+      "category": "fitness",
+      "tags": ["recovery", "mobility", "cardio"],
+      "date": "2026-06-05",
+      "type": "post",
+      "exercises": [
+        { "name": "Hip Flexor Stretch Flow", "sets": 1, "reps": "10 min" },
+        { "name": "Incline Treadmill Walk", "sets": 1, "reps": "20 min" }
+      ]
+    },
+    {
+      "id": "p06",
+      "thumbnail": "https://picsum.photos/seed/p06/480/480",
+      "caption": "Core finisher you can do after literally any workout — 6 min, no equipment",
+      "creator": "@corebydani",
+      "category": "fitness",
+      "tags": ["core", "abs", "finisher"],
+      "date": "2026-05-30",
+      "type": "reel",
+      "summary": [
+        "Circuit of 4 moves, 40 seconds on / 20 off, repeat twice",
+        "Hollow hold builds the anti-extension core strength most people skip",
+        "Bicycle crunches target obliques for that rotational strength",
+        "No equipment, works anywhere — tack onto the end of any session"
+      ],
+      "exercises": [
+        { "name": "Hollow Hold", "sets": 2, "reps": "40s" },
+        { "name": "Bicycle Crunch", "sets": 2, "reps": "40s" },
+        { "name": "Plank Shoulder Tap", "sets": 2, "reps": "40s" }
+      ]
+    },
+    {
+      "id": "p07",
+      "thumbnail": "https://picsum.photos/seed/p07/480/480",
+      "caption": "Creamy garlic butter tuscan shrimp — 20 minutes, one pan, unreal",
+      "creator": "@pastaqueen",
+      "category": "recipes",
+      "tags": ["shrimp", "dinner", "one-pan", "italian"],
+      "date": "2026-06-27",
+      "type": "reel",
+      "summary": [
+        "One pan, ready in 20 minutes — perfect for weeknights",
+        "Sun-dried tomatoes and parmesan build the creamy sauce base",
+        "Sear shrimp first and set aside so they don't overcook",
+        "Serve over pasta, rice, or crusty bread to soak up the sauce"
+      ],
+      "ingredients": [
+        "1 lb large shrimp, peeled and deveined",
+        "3 tbsp butter",
+        "4 cloves garlic, minced",
+        "1/2 cup sun-dried tomatoes, chopped",
+        "1 cup heavy cream",
+        "1/2 cup grated parmesan",
+        "2 cups baby spinach",
+        "Salt, pepper, red pepper flakes to taste"
+      ],
+      "steps": [
+        "Season shrimp with salt and pepper, sear in butter 2 min per side, remove from pan",
+        "Add garlic and sun-dried tomatoes to the same pan, saute 1 minute",
+        "Pour in heavy cream, bring to a simmer, whisk in parmesan until smooth",
+        "Stir in spinach until wilted, then return shrimp to the pan",
+        "Simmer 2 minutes until shrimp is warmed through, serve immediately"
+      ]
+    },
+    {
+      "id": "p08",
+      "thumbnail": "https://picsum.photos/seed/p08/480/480",
+      "caption": "The crispiest smashed potatoes you'll ever make (recipe below)",
+      "creator": "@homecookhaley",
+      "category": "recipes",
+      "tags": ["potatoes", "side dish", "crispy"],
+      "date": "2026-06-22",
+      "type": "post",
+      "ingredients": [
+        "1.5 lb baby potatoes",
+        "3 tbsp olive oil",
+        "1 tsp garlic powder",
+        "1 tsp smoked paprika",
+        "Flaky salt",
+        "Fresh chives, chopped"
+      ],
+      "steps": [
+        "Boil potatoes in salted water until fork-tender, about 15 minutes",
+        "Drain and let steam-dry for 5 minutes",
+        "Smash each potato flat with the bottom of a glass on a baking sheet",
+        "Drizzle with olive oil, season with garlic powder, paprika, and salt",
+        "Roast at 450F for 25-30 minutes until deeply golden and crispy",
+        "Top with flaky salt and chives before serving"
+      ]
+    },
+    {
+      "id": "p09",
+      "thumbnail": "https://picsum.photos/seed/p09/480/480",
+      "caption": "5-ingredient banana oat pancakes — my Sunday morning staple",
+      "creator": "@fitfoodfaye",
+      "category": "recipes",
+      "tags": ["breakfast", "healthy", "pancakes"],
+      "date": "2026-06-16",
+      "type": "reel",
+      "summary": [
+        "Only 5 ingredients, all blended together — no flour needed",
+        "Ripe bananas add natural sweetness so no sugar required",
+        "Rolled oats blended into flour keep these gluten-friendly",
+        "Cook low and slow so the centers set without burning the outside"
+      ],
+      "ingredients": [
+        "2 ripe bananas",
+        "1 cup rolled oats",
+        "2 eggs",
+        "1/2 cup milk",
+        "1 tsp baking powder"
+      ],
+      "steps": [
+        "Blend all ingredients together until smooth batter forms",
+        "Heat a non-stick pan over medium-low heat with a little butter",
+        "Pour 1/4 cup batter per pancake, cook 2-3 minutes until bubbles form",
+        "Flip and cook another 2 minutes until golden",
+        "Serve with maple syrup and fresh berries"
+      ]
+    },
+    {
+      "id": "p10",
+      "thumbnail": "https://picsum.photos/seed/p10/480/480",
+      "caption": "One-pot chicken tikka masala that tastes better than takeout",
+      "creator": "@spiceroute_sam",
+      "category": "recipes",
+      "tags": ["chicken", "curry", "indian", "dinner"],
+      "date": "2026-06-08",
+      "type": "post",
+      "ingredients": [
+        "1.5 lb chicken thighs, cubed",
+        "1 cup plain yogurt",
+        "2 tbsp tikka masala spice blend",
+        "1 onion, diced",
+        "3 cloves garlic, minced",
+        "1 tbsp ginger, grated",
+        "1 can crushed tomatoes",
+        "1 cup heavy cream",
+        "Cilantro, for garnish"
+      ],
+      "steps": [
+        "Marinate chicken in yogurt and half the spice blend for at least 30 minutes",
+        "Sear marinated chicken in a hot pot until browned, set aside",
+        "Saute onion, garlic, and ginger until soft, add remaining spices",
+        "Add crushed tomatoes and simmer 10 minutes to deepen flavor",
+        "Stir in cream and return chicken to the pot, simmer 15 minutes",
+        "Garnish with cilantro and serve with rice or naan"
+      ]
+    },
+    {
+      "id": "p11",
+      "thumbnail": "https://picsum.photos/seed/p11/480/480",
+      "caption": "Meal-prepped Mediterranean bowls for the whole week",
+      "creator": "@fitfoodfaye",
+      "category": "recipes",
+      "tags": ["meal prep", "mediterranean", "healthy"],
+      "date": "2026-05-29",
+      "type": "post",
+      "ingredients": [
+        "2 cups cooked quinoa",
+        "1 cucumber, diced",
+        "1 pint cherry tomatoes, halved",
+        "1 cup kalamata olives",
+        "1 cup feta cheese",
+        "1 lb grilled chicken breast, sliced",
+        "Lemon herb vinaigrette"
+      ],
+      "steps": [
+        "Divide quinoa evenly between 5 meal-prep containers",
+        "Layer cucumber, tomatoes, olives, and feta on top",
+        "Add sliced grilled chicken to each container",
+        "Store vinaigrette separately and dress right before eating",
+        "Keeps fresh in the fridge for up to 4 days"
+      ]
+    },
+    {
+      "id": "p12",
+      "thumbnail": "https://picsum.photos/seed/p12/480/480",
+      "caption": "48 hours in Kyoto: the temple route most tourists miss",
+      "creator": "@wanderwithwill",
+      "category": "travel",
+      "tags": ["kyoto", "japan", "itinerary", "temples"],
+      "date": "2026-06-25",
+      "type": "reel",
+      "summary": [
+        "Start at Fushimi Inari before 7am to beat the crowds entirely",
+        "Arashiyama bamboo grove is best combined with the nearby monkey park",
+        "Skip Kinkaku-ji lines by booking a guided small-group tour instead",
+        "Gion district at dusk is the best time to spot geiko heading to appointments",
+        "Two full days is enough if you cluster temples by neighborhood"
+      ],
+      "location": "Kyoto, Japan"
+    },
+    {
+      "id": "p13",
+      "thumbnail": "https://picsum.photos/seed/p13/480/480",
+      "caption": "Santorini on a budget: where to stay, eat, and watch sunset without the crowds",
+      "creator": "@thebudgetnomad",
+      "category": "travel",
+      "tags": ["santorini", "greece", "budget travel"],
+      "date": "2026-06-19",
+      "type": "post",
+      "location": "Santorini, Greece"
+    },
+    {
+      "id": "p14",
+      "thumbnail": "https://picsum.photos/seed/p14/480/480",
+      "caption": "Iceland ring road in 7 days — full route + where we camped",
+      "creator": "@wanderwithwill",
+      "category": "travel",
+      "tags": ["iceland", "road trip", "camping"],
+      "date": "2026-06-12",
+      "type": "reel",
+      "summary": [
+        "Counter-clockwise route lets you hit the south coast waterfalls first",
+        "Book campsites in advance during summer — they fill up fast",
+        "Budget a full day for the Diamond Circle in the north",
+        "Rent a 4x4 if you plan to detour onto any F-roads",
+        "7 days is tight — 9 gives breathing room for weather delays"
+      ],
+      "location": "Iceland"
+    },
+    {
+      "id": "p15",
+      "thumbnail": "https://picsum.photos/seed/p15/480/480",
+      "caption": "Lisbon food crawl: 6 spots locals actually eat at",
+      "creator": "@eatingmyway",
+      "category": "travel",
+      "tags": ["lisbon", "portugal", "food"],
+      "date": "2026-06-03",
+      "type": "post",
+      "location": "Lisbon, Portugal"
+    },
+    {
+      "id": "p16",
+      "thumbnail": "https://picsum.photos/seed/p16/480/480",
+      "caption": "Bali for digital nomads: best cafes with fast wifi + coworking spaces",
+      "creator": "@thebudgetnomad",
+      "category": "travel",
+      "tags": ["bali", "digital nomad", "coworking"],
+      "date": "2026-05-27",
+      "type": "post",
+      "location": "Bali, Indonesia"
+    },
+    {
+      "id": "p17",
+      "thumbnail": "https://picsum.photos/seed/p17/480/480",
+      "caption": "Patagonia trekking guide: W Trek vs O Circuit, which to pick",
+      "creator": "@wanderwithwill",
+      "category": "travel",
+      "tags": ["patagonia", "hiking", "chile"],
+      "date": "2026-05-20",
+      "type": "post",
+      "location": "Torres del Paine, Chile"
+    },
+    {
+      "id": "p18",
+      "thumbnail": "https://picsum.photos/seed/p18/480/480",
+      "caption": "How I grew my newsletter to 10k subs in 90 days (breakdown)",
+      "creator": "@growthwithgrace",
+      "category": "business",
+      "tags": ["newsletter", "growth", "marketing"],
+      "date": "2026-06-26",
+      "type": "reel",
+      "summary": [
+        "Consistent 2x/week publishing schedule beat sporadic viral attempts",
+        "Cross-promotion swaps with 3 adjacent newsletters drove 40% of growth",
+        "A single sharp lead magnet converted cold traffic far better than a generic one",
+        "Referral program with a simple incentive doubled the sharing rate",
+        "Doubling down on one distribution channel outperformed spreading thin"
+      ]
+    },
+    {
+      "id": "p19",
+      "thumbnail": "https://picsum.photos/seed/p19/480/480",
+      "caption": "The pricing mistake that cost me $40k in year one of my agency",
+      "creator": "@agencyalex",
+      "category": "business",
+      "tags": ["pricing", "agency", "lessons learned"],
+      "date": "2026-06-17",
+      "type": "post"
+    },
+    {
+      "id": "p20",
+      "thumbnail": "https://picsum.photos/seed/p20/480/480",
+      "caption": "How to validate a SaaS idea in one weekend without writing code",
+      "creator": "@buildinpublicben",
+      "category": "business",
+      "tags": ["saas", "validation", "startup"],
+      "date": "2026-06-11",
+      "type": "reel",
+      "summary": [
+        "A landing page with a waitlist form validates demand before you build",
+        "Manually delivering the 'product' by hand tests willingness to pay fast",
+        "Posting in 3 relevant communities gauges real interest, not just likes",
+        "If nobody signs up after real outreach, the idea needs reworking"
+      ]
+    },
+    {
+      "id": "p21",
+      "thumbnail": "https://picsum.photos/seed/p21/480/480",
+      "caption": "The content repurposing system that gives me 30 posts from 1 podcast",
+      "creator": "@growthwithgrace",
+      "category": "business",
+      "tags": ["content", "repurposing", "systems"],
+      "date": "2026-06-01",
+      "type": "post"
+    },
+    {
+      "id": "p22",
+      "thumbnail": "https://picsum.photos/seed/p22/480/480",
+      "caption": "Negotiating your first brand deal: rates, contracts, red flags",
+      "creator": "@agencyalex",
+      "category": "business",
+      "tags": ["brand deals", "negotiation", "creators"],
+      "date": "2026-05-24",
+      "type": "post"
+    },
+    {
+      "id": "p23",
+      "thumbnail": "https://picsum.photos/seed/p23/480/480",
+      "caption": "Why I switched my whole business to a productized service model",
+      "creator": "@buildinpublicben",
+      "category": "business",
+      "tags": ["productized service", "business model"],
+      "date": "2026-05-15",
+      "type": "post"
+    },
+    {
+      "id": "p24",
+      "thumbnail": "https://picsum.photos/seed/p24/480/480",
+      "caption": "This weighted vest completely changed my walking workouts",
+      "creator": "@gearwithgabe",
+      "category": "products",
+      "tags": ["weighted vest", "walking", "gear"],
+      "date": "2026-06-24",
+      "type": "post",
+      "productName": "Adjustable Weighted Vest 20lb",
+      "price": 89.99,
+      "priceChange": -10,
+      "sourceUrl": "https://example-shop.com/weighted-vest-20lb"
+    },
+    {
+      "id": "p25",
+      "thumbnail": "https://picsum.photos/seed/p25/480/480",
+      "caption": "Finally found a standing desk converter that doesn't wobble",
+      "creator": "@deskgearreviews",
+      "category": "products",
+      "tags": ["desk", "wfh", "ergonomics"],
+      "date": "2026-06-18",
+      "type": "post",
+      "productName": "Riser Pro Standing Desk Converter",
+      "price": 179.0,
+      "priceChange": 0,
+      "sourceUrl": "https://example-shop.com/riser-pro-converter"
+    },
+    {
+      "id": "p26",
+      "thumbnail": "https://picsum.photos/seed/p26/480/480",
+      "caption": "The travel backpack I've used across 14 countries and counting",
+      "creator": "@gearwithgabe",
+      "category": "products",
+      "tags": ["backpack", "travel gear"],
+      "date": "2026-06-09",
+      "type": "post",
+      "productName": "TrailPack 40L Carry-On Backpack",
+      "price": 149.5,
+      "priceChange": 15,
+      "sourceUrl": "https://example-shop.com/trailpack-40l"
+    },
+    {
+      "id": "p27",
+      "thumbnail": "https://picsum.photos/seed/p27/480/480",
+      "caption": "This cast iron pan is why my searing game leveled up",
+      "creator": "@homecookhaley",
+      "category": "products",
+      "tags": ["cookware", "cast iron", "kitchen"],
+      "date": "2026-05-31",
+      "type": "post",
+      "productName": "Heritage 12in Cast Iron Skillet",
+      "price": 54.0,
+      "priceChange": -5,
+      "sourceUrl": "https://example-shop.com/heritage-cast-iron-12in"
+    },
+    {
+      "id": "p28",
+      "thumbnail": "https://picsum.photos/seed/p28/480/480",
+      "caption": "Ring light + tripod combo that made my content look 10x better",
+      "creator": "@deskgearreviews",
+      "category": "products",
+      "tags": ["content creation", "ring light", "tripod"],
+      "date": "2026-05-22",
+      "type": "post",
+      "productName": "GlowPro 10in Ring Light Kit",
+      "price": 39.99,
+      "priceChange": -20,
+      "sourceUrl": "https://example-shop.com/glowpro-ring-light-kit"
+    },
+    {
+      "id": "p29",
+      "thumbnail": "https://picsum.photos/seed/p29/480/480",
+      "caption": "These recovery slides saved my feet after leg day",
+      "creator": "@gearwithgabe",
+      "category": "products",
+      "tags": ["recovery", "footwear", "fitness gear"],
+      "date": "2026-05-12",
+      "type": "post",
+      "productName": "CloudStep Recovery Slides",
+      "price": 44.95,
+      "priceChange": 8,
+      "sourceUrl": "https://example-shop.com/cloudstep-recovery-slides"
+    },
+    {
+      "id": "p30",
+      "thumbnail": "https://picsum.photos/seed/p30/480/480",
+      "caption": "Kanban template I use to run my entire solo business",
+      "creator": "@buildinpublicben",
+      "category": "business",
+      "tags": ["productivity", "kanban", "templates"],
+      "date": "2026-05-05",
+      "type": "post"
+    }
+  ],
+  "creators": [
+    {
+      "id": "c01",
+      "name": "@liftwithlena",
+      "avatar": "https://picsum.photos/seed/liftwithlena/100/100",
+      "niche": "Fitness",
+      "lastDmDate": "2026-06-29",
+      "collabStatus": "In Talks",
+      "notes": "Interested in a joint dumbbell program launch, waiting on her rate card."
+    },
+    {
+      "id": "c02",
+      "name": "@coachmarcus",
+      "avatar": "https://picsum.photos/seed/coachmarcus/100/100",
+      "niche": "Fitness",
+      "lastDmDate": "2026-06-15",
+      "collabStatus": "Not Started",
+      "notes": "Want to reach out about beginner program affiliate link."
+    },
+    {
+      "id": "c03",
+      "name": "@pastaqueen",
+      "avatar": "https://picsum.photos/seed/pastaqueen/100/100",
+      "niche": "Recipes",
+      "lastDmDate": "2026-06-20",
+      "collabStatus": "Collaborated",
+      "notes": "Did a recipe swap post in May, great engagement, revisit in Q3."
+    },
+    {
+      "id": "c04",
+      "name": "@wanderwithwill",
+      "avatar": "https://picsum.photos/seed/wanderwithwill/100/100",
+      "niche": "Travel",
+      "lastDmDate": "2026-06-22",
+      "collabStatus": "In Talks",
+      "notes": "Discussing a Patagonia itinerary bundle for the site."
+    },
+    {
+      "id": "c05",
+      "name": "@growthwithgrace",
+      "avatar": "https://picsum.photos/seed/growthwithgrace/100/100",
+      "niche": "Business",
+      "lastDmDate": "2026-06-27",
+      "collabStatus": "In Talks",
+      "notes": "Sent proposal for a co-hosted newsletter growth webinar."
+    },
+    {
+      "id": "c06",
+      "name": "@gearwithgabe",
+      "avatar": "https://picsum.photos/seed/gearwithgabe/100/100",
+      "niche": "Products",
+      "lastDmDate": "2026-06-10",
+      "collabStatus": "Not Started",
+      "notes": "Want to ask about affiliate codes for the weighted vest."
+    },
+    {
+      "id": "c07",
+      "name": "@thebudgetnomad",
+      "avatar": "https://picsum.photos/seed/thebudgetnomad/100/100",
+      "niche": "Travel",
+      "lastDmDate": "2026-05-30",
+      "collabStatus": "Passed",
+      "notes": "Rates too high for current budget, revisit next quarter."
+    },
+    {
+      "id": "c08",
+      "name": "@buildinpublicben",
+      "avatar": "https://picsum.photos/seed/buildinpublicben/100/100",
+      "niche": "Business",
+      "lastDmDate": "2026-06-05",
+      "collabStatus": "Collaborated",
+      "notes": "Featured our tool in his build-in-public thread, strong CTR."
+    }
+  ],
+  "trends": [
+    {
+      "id": "t01",
+      "topic": "Zone 2 Cardio for Longevity",
+      "category": "Fitness",
+      "trendScore": 92,
+      "sparkline": [20, 24, 30, 38, 45, 58, 70, 92],
+      "insight": "Saves on low-intensity cardio content jumped 3x in the last two weeks in your fitness folder."
+    },
+    {
+      "id": "t02",
+      "topic": "One-Pan Dinners",
+      "category": "Recipes",
+      "trendScore": 87,
+      "sparkline": [40, 42, 50, 55, 60, 68, 80, 87],
+      "insight": "One-pan and one-pot recipes now make up nearly half of your recent recipe saves."
+    },
+    {
+      "id": "t03",
+      "topic": "Shoulder Season Travel",
+      "category": "Travel",
+      "trendScore": 81,
+      "sparkline": [15, 20, 22, 35, 48, 60, 74, 81],
+      "insight": "Posts about traveling in April/October are showing up more often across your saved creators."
+    },
+    {
+      "id": "t04",
+      "topic": "Solo-Founder Productized Services",
+      "category": "Business",
+      "trendScore": 76,
+      "sparkline": [30, 33, 38, 42, 50, 60, 68, 76],
+      "insight": "Multiple creators you follow pivoted content toward productized service models this month."
+    },
+    {
+      "id": "t05",
+      "topic": "Recovery & Mobility Gear",
+      "category": "Products",
+      "trendScore": 69,
+      "sparkline": [25, 28, 30, 34, 40, 50, 60, 69],
+      "insight": "Recovery slides and mobility tools are appearing more frequently in your product saves."
+    },
+    {
+      "id": "t06",
+      "topic": "Newsletter Growth Loops",
+      "category": "Business",
+      "trendScore": 65,
+      "sparkline": [18, 22, 28, 33, 40, 48, 58, 65],
+      "insight": "Referral-driven newsletter growth tactics are trending among the creators you follow."
+    },
+    {
+      "id": "t07",
+      "topic": "Budget Backpacking Routes",
+      "category": "Travel",
+      "trendScore": 58,
+      "sparkline": [20, 21, 25, 28, 35, 42, 50, 58],
+      "insight": "Budget-focused itineraries are gaining traction compared to luxury travel content."
+    },
+    {
+      "id": "t08",
+      "topic": "High-Protein Breakfasts",
+      "category": "Recipes",
+      "trendScore": 54,
+      "sparkline": [15, 18, 22, 26, 32, 40, 47, 54],
+      "insight": "Protein-forward breakfast recipes are showing steady week-over-week growth in your saves."
+    }
+  ]
+}
